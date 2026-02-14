@@ -2,8 +2,8 @@
 
 > Create a personalized "Music Receipt" wall art. Instant digital download and ready to print.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://52imnet.github.io/personalized-music-receipt-poster-printable/)
-[![Official Site](https://img.shields.io/badge/official-lyricsposter.com-pink)](https://www.lyricsposter.com/en/music-posters/custom-personalized-music-receipt-poster-printable-print)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://www.lyricsposter.com/en/music-posters)
+[![Official Site](https://img.shields.io/badge/official-lyricsposter.com-pink)](https://www.lyricsposter.com/en/music-posters/custom-playlist-wall-art-print)
 
 ## ✨ Overview
 
