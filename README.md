@@ -18,7 +18,7 @@ This project provides a specialized tool for music fans to create **custom, pers
 
 ## 🛠️ How to Create Your Printable Receipt
 
-1. **Visit the Editor**: Go to the [Live Customizer](https://52imnet.github.io/personalized-music-receipt-poster-printable/).
+1. **Visit the Editor**: Go to the [Live Customizer](https://www.lyricsposter.com/en/music-posters).
 2. **Search Songs**: Add your personalized list of top tracks.
 3. **Edit Info**: Personalize the receipt header with your name and a special date.
 4. **Download & Print**: Export your custom art and print it at home or a local shop.
@@ -34,8 +34,8 @@ This project provides a specialized tool for music fans to create **custom, pers
 ## 🔗 Related Resources
 
 - [LyricsPoster.com](https://www.lyricsposter.com) - Professional personalized music art.
-- [Printable Cassette Art](https://52imnet.github.io/custom-vintage-cassette-poster-printable/) - Retro 80s personalized posters.
-- [Custom Album Grid](https://52imnet.github.io/spotify-playlist-poster-grid-personalized/) - Modern album art printables.
+- [Printable Cassette Art](https://www.lyricsposter.com/en/music-posters/custom-playlist-wall-art-print) - Retro 80s personalized posters.
+- [Custom Album Grid](https://www.lyricsposter.com/en/music-posters/music-album-posters-unframed) - Modern album art printables.
 
 ## 📈 SEO Keywords
 `custom music receipt poster`, `personalized album receipt`, `printable song receipt`, `custom playlist art`, `digital download music gift`, `personalized room decor`, `printable music wall art`.
